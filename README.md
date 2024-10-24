@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Aventiaxd&color=blue)
 
 ## About Me
 - 🔭 I’m currently working on [Project Name](link-to-project)
